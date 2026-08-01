@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Debian Fallback Graphics
+Description=System default fallback graphic display engine.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/debian-fallback
+ScriptFile=/usr/share/plymouth/themes/debian-fallback/debian-fallback.script
